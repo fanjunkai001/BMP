@@ -1,4 +1,4 @@
-ntroduction
+Introduction
 This project is aimed to provide a user panel to access FREE, SECURE and PRIVATE VLESS, Trojan and Warp configs, It ensures connectivity even when domains or Warp services are blocked by ISPs, offering two deployment options:
 
 Workers deployment
